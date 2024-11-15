@@ -1,1 +1,1 @@
-# twitter-analyzer-spark
+# Parking counter using OpenCV in Python
